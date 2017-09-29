@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: easypoi
+Implementation-Version: 1.0.0
+Built-By: teraee
+Implementation-Vendor-Id: xyz.a51lzz
+Build-Jdk: 1.8.0_144
+Implementation-URL: http://projects.spring.io/spring-boot/easypoi/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
